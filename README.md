@@ -1,2 +1,7 @@
-# where-am-I-
-this app uses google apis and finds all kind of places near you which are important to you
+# Where am I
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
