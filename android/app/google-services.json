@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447986839640",
+    "project_id": "nearme-82c68",
+    "storage_bucket": "nearme-82c68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447986839640:android:eb096f058e299a54e75a2d",
+        "android_client_info": {
+          "package_name": "com.mycompany.whatnearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447986839640-dtdvb76no2sab8mqm135qb5t687tt9ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdlYrDl5JmmA0Po14o_H-AHHRBT_DswmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447986839640-dtdvb76no2sab8mqm135qb5t687tt9ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
