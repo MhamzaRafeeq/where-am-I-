@@ -28,6 +28,7 @@ class PlacePicker extends StatefulWidget {
   final double? height;
   final Future Function()? updateContainingPage;
 
+  
   @override
   State<PlacePicker> createState() => _PlacePickerState();
 }
